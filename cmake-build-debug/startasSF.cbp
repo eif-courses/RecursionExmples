@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="startasSF"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\CLionCompiler\;CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\;CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\;CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\lib\;CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\lib\cmake\;CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="startasSF">
+				<Option output="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/startasSF.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 startasSF"/>
+					<CompileFile command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="startasSF/fast">
+				<Option output="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/startasSF.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 startasSF/fast"/>
+					<CompileFile command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/main.cpp">
+			<Option target="startasSF"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/../../../../../../CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\CLionCompiler\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

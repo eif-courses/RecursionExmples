@@ -1,0 +1,13 @@
+C:\Users\Marius\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Marius\Desktop\Practical tasks\ads\startasSF"
+CMake Error at CMakeLists.txt:5 (find_package):
+  Could not find a configuration file for package "SFML" that is compatible
+  with requested version "".
+
+  The following configuration files were considered but not accepted:
+
+    C:/CLionCompiler/i686-7.3.0-release-posix-dwarf-rt_v5-rev0/mingw32/lib/cmake/SFML/SFMLConfig.cmake, version: 2.5.1 (64bit)
+
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/CMakeFiles/CMakeOutput.log".

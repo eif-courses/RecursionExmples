@@ -1,0 +1,3 @@
+C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/CMakeFiles/startasSF.dir
+C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marius/Desktop/Practical tasks/ads/startasSF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
